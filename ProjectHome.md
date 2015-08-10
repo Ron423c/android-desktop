@@ -1,0 +1,1 @@
+Project to make it possible to compile android-apps to run on desktop OS.
